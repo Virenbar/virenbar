@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a .NET Framework and TypeScript developer
+## I'm a .NET and TypeScript developer
 **Languages and Tools:**  
 ![NET](https://img.shields.io/badge/.NET-Framework-007700?style=for-the-badge)
 ![TS](https://img.shields.io/badge/-TypeScript-007700?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
