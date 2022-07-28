@@ -8,7 +8,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-0366d6?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)
 ![LUA](https://img.shields.io/badge/-LUA-0366d6?style=for-the-badge&logo=lua&logoColor=FFFFFF)
 
-<img src="github-metrics.svg" alt="Metrics" width="100%">
+![Metrics](./github-metrics.svg)
 
 <!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=virenbar&count_private=true&show_icons=true&bg_color=00000000&title_color=007700&icon_color=007700&text_color=007700)](https://github.com/anuraghazra/github-readme-stats)
