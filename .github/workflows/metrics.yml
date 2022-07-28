@@ -29,6 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
+          output_condition: data-changed
           config_timezone: Asia/Yekaterinburg
           config_twemoji: yes
           plugin_gists: yes
