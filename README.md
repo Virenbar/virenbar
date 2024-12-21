@@ -22,6 +22,7 @@ I'm Artyom. I primarially work with .NET and TypeScript.
 ![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github_pages-222222.svg?style=for-the-badge&logoColor=white)
 
+**[Bookmarks](https://github.com/Virenbar/virenbar/wiki)**  
 **[Repositrory Archive](https://github.com/Virenbar-Archive/)**  
 
 <!--
